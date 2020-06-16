@@ -11,7 +11,7 @@ from tqsdk.tools import DataDownloader
 import warnings
 warnings.filterwarnings('ignore')
 
-token = '1edc795a767d90a8660368d1942c56072509db1fe6b4bbdaeb1a4f4c'  # 需要自己注册一个tushare, 用自己的ts token
+token = ''  # 需要自己注册一个tushare, 用自己的ts token
 pro = ts.pro_api(token)
 api = TqApi()
 trade_date_min = datetime.date(2019, 1, 1)
