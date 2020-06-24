@@ -139,7 +139,10 @@ print(t2 - t1)
 filename = 'result.txt'
 with open(filename, 'w') as f:  # 如果filename不存在会自动创建， 'w'表示写数据，写之前会清空文件中的原有数据！
     f.write(str(t2 - t1))
-
+    
+########
+# Step 5
+########
 while True:
     api.wait_update()
     now_time_ = datetime.datetime.strptime(quote1.datetime, "%Y-%m-%d %H:%M:%S.%f")
