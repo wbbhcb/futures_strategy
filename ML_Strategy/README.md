@@ -1,6 +1,7 @@
 # 注意
 如果没有tushare积分无法下载数据的话，可以关注公众号，后台回复“期货数据”，即可获取期货数据
 
+# 教程链接
 期货ML策略(一)数据获取：
 https://mp.weixin.qq.com/s/2h0sEMeT_Al2w_mGoT9mKQ
 
@@ -10,9 +11,14 @@ https://mp.weixin.qq.com/s/aOaptZZRKHGFETKjco05SA
 期货ML策略（三）基于交易信号的回测：
 https://mp.weixin.qq.com/s/xpa1XQ9JqMkVdVPhjLdvJw
 
+# 代码说明
 data_download.py：数据下载，需要替换自己的tushare token
 
 data_index.py：指数信息合成
+
+Train.ipynb：训练ML模型，同时输出交易信号
+
+backtest.py：基于交易信号的回测
 
 
 # 结语
