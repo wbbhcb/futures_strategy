@@ -1,3 +1,5 @@
+# 注意
+如果没有tushare积分无法下载数据的话，可以关注公众号，后台回复“期货数据”，即可获取期货数据
 
 期货ML策略(一)数据获取：
 https://mp.weixin.qq.com/s/2h0sEMeT_Al2w_mGoT9mKQ
