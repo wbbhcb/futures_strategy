@@ -11,6 +11,9 @@ https://mp.weixin.qq.com/s/aOaptZZRKHGFETKjco05SA
 期货ML策略（三）基于交易信号的回测：
 https://mp.weixin.qq.com/s/xpa1XQ9JqMkVdVPhjLdvJw
 
+期货ML策略（四）模拟盘/实盘上线
+https://mp.weixin.qq.com/s/BOGEzjoolx8OrRNBnFzTyw
+
 # 代码说明
 data_download.py：数据下载，需要替换自己的tushare token
 
