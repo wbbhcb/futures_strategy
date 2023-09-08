@@ -15,4 +15,3 @@ https://mp.weixin.qq.com/s?__biz=MzIyNjg5MTAzOA==&mid=2247483968&idx=1&sn=129698
 
  ![image](https://github.com/wbbhcb/futures_strategy/blob/master/qrcode.jpg)
 
-个人知乎:https://www.zhihu.com/people/e-zhe-shi-wo/activities
